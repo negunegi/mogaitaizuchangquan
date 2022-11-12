@@ -1,0 +1,6 @@
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\bin\Debug\taizuchangquanmogai.dll
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\bin\Debug\taizuchangquanmogai.pdb
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\obj\Debug\taizuchangquanmogai.csproj.AssemblyReference.cache
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\obj\Debug\taizuchangquanmogai.csproj.CoreCompileInputs.cache
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\obj\Debug\taizuchangquanmogai.dll
+C:\Users\Negu\source\repos\taizuchangquanmogai\taizuchangquanmogai\obj\Debug\taizuchangquanmogai.pdb
